@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech CSE student at Chandigarh University with a strong interest in blockchain technology. Proficient in JavaScript, C, C++, and Python. Currently learning automation using n8n and continuously working on improving my technical and professional skills.
+B.Tech CSE student at Chandigarh University with a strong interest in blockchain technology. Proficient in JavaScript, C, C++, and Python. Currently learning automation and continuously working on improving my technical and professional skills.
 
 
 ## 🌐 Socials:
